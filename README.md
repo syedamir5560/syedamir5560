@@ -1,4 +1,6 @@
+![logo](https://github.com/syedamir5560/syedamir5560/blob/main/Full%20stack%20web%20developer.png)
 <h1 align="center">Hi 👋, I'm Sayyed Aamir Ali</h1>
+
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <img align="right" alt="code" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
