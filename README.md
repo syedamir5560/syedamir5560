@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D5616AQGzvy3pdRRzPw/profile-displaybackgroundimage-shrink_350_1400/0/1693836871158?e=1719446400&v=beta&t=HA72KJbOohrj0hTchxjNg25NtpyHxVglL8nv07AhR6w" align="center" >
+<img src="https://media.licdn.com/dms/image/D5616AQGzvy3pdRRzPw/profile-displaybackgroundimage-shrink_350_1400/0/1693836871158?e=1724889600&v=beta&t=WSe4XEf9zB7Ogf0dLq4Vju3YV0uCkCrACXDmDtS_m1I" align="center" >
 <h3 align="center">A passionate Frontend Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
